@@ -1,0 +1,15 @@
+C:\Users\sagar\source\repos\FacadeDesignPattern\Facade\obj\Debug\net8.0\Facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagar\source\repos\FacadeDesignPattern\Facade\obj\Debug\net8.0\Facade.AssemblyInfoInputs.cache
+C:\Users\sagar\source\repos\FacadeDesignPattern\Facade\obj\Debug\net8.0\Facade.AssemblyInfo.cs
+C:\Users\sagar\source\repos\FacadeDesignPattern\Facade\obj\Debug\net8.0\Facade.csproj.CoreCompileInputs.cache
+C:\Users\sagar\source\repos\FacadeDesignPattern\Facade\bin\Debug\net8.0\Facade.deps.json
+C:\Users\sagar\source\repos\FacadeDesignPattern\Facade\bin\Debug\net8.0\Facade.dll
+C:\Users\sagar\source\repos\FacadeDesignPattern\Facade\bin\Debug\net8.0\Facade.pdb
+C:\Users\sagar\source\repos\FacadeDesignPattern\Facade\bin\Debug\net8.0\Subsystems.dll
+C:\Users\sagar\source\repos\FacadeDesignPattern\Facade\bin\Debug\net8.0\Subsystems.pdb
+C:\Users\sagar\source\repos\FacadeDesignPattern\Facade\obj\Debug\net8.0\Facade.csproj.AssemblyReference.cache
+C:\Users\sagar\source\repos\FacadeDesignPattern\Facade\obj\Debug\net8.0\Facade.csproj.Up2Date
+C:\Users\sagar\source\repos\FacadeDesignPattern\Facade\obj\Debug\net8.0\Facade.dll
+C:\Users\sagar\source\repos\FacadeDesignPattern\Facade\obj\Debug\net8.0\refint\Facade.dll
+C:\Users\sagar\source\repos\FacadeDesignPattern\Facade\obj\Debug\net8.0\Facade.pdb
+C:\Users\sagar\source\repos\FacadeDesignPattern\Facade\obj\Debug\net8.0\ref\Facade.dll

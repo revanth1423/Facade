@@ -1,0 +1,11 @@
+C:\Users\sagar\source\repos\FacadeDesignPattern\Subsystems\bin\Debug\net8.0\Subsystems.deps.json
+C:\Users\sagar\source\repos\FacadeDesignPattern\Subsystems\bin\Debug\net8.0\Subsystems.dll
+C:\Users\sagar\source\repos\FacadeDesignPattern\Subsystems\bin\Debug\net8.0\Subsystems.pdb
+C:\Users\sagar\source\repos\FacadeDesignPattern\Subsystems\obj\Debug\net8.0\Subsystems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagar\source\repos\FacadeDesignPattern\Subsystems\obj\Debug\net8.0\Subsystems.AssemblyInfoInputs.cache
+C:\Users\sagar\source\repos\FacadeDesignPattern\Subsystems\obj\Debug\net8.0\Subsystems.AssemblyInfo.cs
+C:\Users\sagar\source\repos\FacadeDesignPattern\Subsystems\obj\Debug\net8.0\Subsystems.csproj.CoreCompileInputs.cache
+C:\Users\sagar\source\repos\FacadeDesignPattern\Subsystems\obj\Debug\net8.0\Subsystems.dll
+C:\Users\sagar\source\repos\FacadeDesignPattern\Subsystems\obj\Debug\net8.0\refint\Subsystems.dll
+C:\Users\sagar\source\repos\FacadeDesignPattern\Subsystems\obj\Debug\net8.0\Subsystems.pdb
+C:\Users\sagar\source\repos\FacadeDesignPattern\Subsystems\obj\Debug\net8.0\ref\Subsystems.dll
