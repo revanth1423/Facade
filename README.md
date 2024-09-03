@@ -14,5 +14,5 @@ The **Facade Design Pattern** simplifies interactions with complex systems by pr
 - **Improved Structure**: Organizes the system into more manageable modules.
 
 ## CLASS DIAGRAM
-![Class Diagram](images/facade.jpeg)
+![Class Diagram](images/facade.jpg)
 
