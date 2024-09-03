@@ -17,6 +17,7 @@ namespace Facade
     /// and Subtitles. It hides the complexity of interacting with these
     /// subsystems individually which is what exactly a facade does
     /// </summary>
+ 
     public class MediaFacade
     {
         // Making these properties public for accessing the underlying subsystem cases

@@ -13,3 +13,4 @@ C:\Users\sagar\source\repos\FacadeDesignPattern\Facade\obj\Debug\net8.0\Facade.d
 C:\Users\sagar\source\repos\FacadeDesignPattern\Facade\obj\Debug\net8.0\refint\Facade.dll
 C:\Users\sagar\source\repos\FacadeDesignPattern\Facade\obj\Debug\net8.0\Facade.pdb
 C:\Users\sagar\source\repos\FacadeDesignPattern\Facade\obj\Debug\net8.0\ref\Facade.dll
+C:\Users\sagar\source\repos\FacadeDesignPattern\Facade\obj\Debug\net8.0\Facade.sourcelink.json
